@@ -2,7 +2,7 @@
 <h3 align="center">Budget app for incomes and expenses.</h3>
 
 <h3 align="left">Screenshots:</h3>
-<img src="https://drive.google.com/uc?id=1R_-G6aJwHRpIYPeMPhNoj2aU7PXfJ4FL" alt="image1" width="800">
+<img src="https://drive.google.com/uc?id=1R_-G6aJwHRpIYPeMPhNoj2aU7PXfJ4FL" alt="image1" width="900">
 
 <h3 align="left">Languages and Tools:</h3>
 
